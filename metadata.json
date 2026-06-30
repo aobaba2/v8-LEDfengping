@@ -1,0 +1,6 @@
+{
+  "name": "LED Signage Dashboard",
+  "description": "A premium multi-screen digital signage dashboard optimized for 2580x430 ultra-wide LED displays, featuring 3 concurrent pixel-perfect 16:9 video iframe channels and 2 futuristic vertical scrolling/paging soccer stats streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
